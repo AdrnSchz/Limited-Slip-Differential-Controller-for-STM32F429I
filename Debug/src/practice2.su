@@ -1,0 +1,5 @@
+practice2.c:10:6:initSamples	184	static
+practice2.c:100:9:getMean	24	static
+practice2.c:118:6:initTimerADC	24	static
+practice2.c:140:6:TIM7_IRQHandler	8	static
+practice2.c:162:6:setStartSamples	4	static
