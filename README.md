@@ -1,6 +1,8 @@
 # Limited-Slip-Differential-Controller-for-STM32F429I
 #### C, Atollic Studio, DMA, LCD
 
+For further explanations on the decissions made, refer to the different reports (P1, P2 and P3)
+
 ## Main Features
 Implemented a system to measure the rotational speed of each wheel and adjust torque distribution using analog signals.
 Integrated Direct Memory Access (DMA) controllers to enhance system performance by transferring data between I/O and memory modules. 
